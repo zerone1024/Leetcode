@@ -18,10 +18,10 @@
 1 <= values <= 10000
 最多会对 appendTail、deleteHead 进行 10000 次调用
 
-思路：
+**思路：**
 通过两个栈A和B（数组）实现，栈B用来实现倒序
 
-题解：
+**题解：**
 type CQueue struct {
     inStack, outStack []int
 }
