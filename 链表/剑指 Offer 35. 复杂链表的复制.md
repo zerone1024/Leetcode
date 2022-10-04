@@ -123,3 +123,5 @@ func copyRandomList(head *Node) *Node {
 }
 ```
 
+参考：
+https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/jian-zhi-offer-35-fu-za-lian-biao-de-fu-zhi-ha-xi-/
