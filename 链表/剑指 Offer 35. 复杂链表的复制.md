@@ -19,6 +19,7 @@
 ```
 
 **示例 3：**
+
 ![image](https://user-images.githubusercontent.com/107392125/193871162-43ed2df3-ceb5-486f-898d-dcbd2467e1b7.png)
 ```
 输入：head = [[3,null],[3,0],[3,null]]
