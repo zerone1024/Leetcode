@@ -3,8 +3,7 @@
 请实现 copyRandomList 函数，复制一个复杂链表。在复杂链表中，每个节点除了有一个 next 指针指向下一个节点，还有一个 random 指针指向链表中的任意节点或者 null。
 
 **示例 1：**
-
-![image-20221005000605510](/Users/lizhaoran/Library/Application Support/typora-user-images/image-20221005000605510.png)
+![image](https://user-images.githubusercontent.com/107392125/193871035-1e71ecc5-01ba-48be-8dc1-29c6ef23d87e.png)
 
 ```
 输入：head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
@@ -13,17 +12,14 @@
 
 **示例 2：**
 
-![image-20221005000620501](/Users/lizhaoran/Library/Application Support/typora-user-images/image-20221005000620501.png)
-
+![image](https://user-images.githubusercontent.com/107392125/193871103-339c45ec-a085-4589-9b65-7f0e6e0a25ce.png)
 ```
 输入：head = [[1,1],[2,1]]
 输出：[[1,1],[2,1]]
 ```
 
 **示例 3：**
-
-![image-20221005000723481](/Users/lizhaoran/Library/Application Support/typora-user-images/image-20221005000723481.png)
-
+![image](https://user-images.githubusercontent.com/107392125/193871162-43ed2df3-ceb5-486f-898d-dcbd2467e1b7.png)
 ```
 输入：head = [[3,null],[3,0],[3,null]]
 输出：[[3,null],[3,0],[3,null]]
